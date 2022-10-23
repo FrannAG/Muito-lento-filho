@@ -1,0 +1,98 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-210
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Sonic_exe_pixel idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-210
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Sonic_exe_pixel right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-210
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Sonic_exe_pixel left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-7,
+				-224
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Sonic_exe_pixel up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				-210
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Sonic_exe_pixel down",
+			"indices": []
+		},
+		{
+			"offsets": [
+				3,
+				-224
+			],
+			"indices": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"fps": 24,
+			"anim": "ha",
+			"loop": false,
+			"name": "Sonic_exe_pixel ha"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/Sonic_exe_pixel_alt",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "sonic-exe-pixel-alt",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		19,
+		102
+	],
+	"camera_position": [
+		-240,
+		70
+	],
+	"sing_duration": 6.1,
+	"scale": 6.99999999999999
+}
