@@ -1,0 +1,31 @@
+{
+	"storyName": "encore",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"sonic_exe",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Too-slow-encore",
+			"sonic-exe",
+			[
+				140,
+				0,
+				0
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "encore"
+}
