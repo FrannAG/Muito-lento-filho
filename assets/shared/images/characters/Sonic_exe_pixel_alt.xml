@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Sonic_exe_pixel_alt.png">
+<SubTexture name="Sonic_exe_pixel idle0000" x="0" y="0" width="68" height="68" frameX="0" frameY="0" frameWidth="68" frameHeight="68" />
+<SubTexture name="Sonic_exe_pixel right0000" x="68" y="0" width="68" height="68" frameX="0" frameY="0" frameWidth="68" frameHeight="68" />
+<SubTexture name="Sonic_exe_pixel down0000" x="0" y="68" width="68" height="68" frameX="0" frameY="0" frameWidth="68" frameHeight="68" />
+<SubTexture name="Sonic_exe_pixel up0000" x="68" y="68" width="68" height="68" frameX="0" frameY="0" frameWidth="68" frameHeight="68" />
+<SubTexture name="Sonic_exe_pixel left0000" x="0" y="136" width="68" height="68" frameX="0" frameY="0" frameWidth="68" frameHeight="68" />
+<SubTexture name="Sonic_exe_pixel ha0000" x="68" y="136" width="68" height="68" frameX="0" frameY="0" frameWidth="68" frameHeight="68" />
+</TextureAtlas>
